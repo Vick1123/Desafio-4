@@ -51,8 +51,12 @@ flex-direction:row;
 .tamanho{
     height: 200px;
     width:fit-content; 
+
+    
     
 }
+
+
 
 @media(max-width:800px){
 
@@ -63,4 +67,5 @@ flex-direction:row;
     }
 
 }
-    
+
+
